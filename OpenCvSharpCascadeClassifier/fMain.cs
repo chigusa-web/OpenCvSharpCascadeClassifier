@@ -12,6 +12,9 @@ using System.Windows.Forms;
 
 namespace OpenCvSharpCascadeClassifier
 {
+    /// <summary>
+    /// メインフォーム
+    /// </summary>
     public partial class fMain : Form
     {
 
