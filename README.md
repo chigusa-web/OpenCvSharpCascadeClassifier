@@ -1,0 +1,3 @@
+# OpenCvSharpCascadeClassifier
+
+OpenCvSharpを使用した、物体検出を簡単に行うことができるアプリです。
