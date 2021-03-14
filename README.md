@@ -1,3 +1,9 @@
 # OpenCvSharpCascadeClassifier
 
-OpenCvSharpを使用した、物体検出を簡単に行うことができるアプリです。
+OpenCvSharpを使用し、物体検出（顔認証など）を簡単に行うことができるアプリです。  
+OpenCvSharpには、予めカスケード分類器が用意されており、本アプリではそれらの精度を簡単に確認することができます。
+
+詳しい使い方は以下をご覧ください。  
+https://kimamacode.com/opencvsharp-cascade-classifier/
+
+![](./img/app.png)
